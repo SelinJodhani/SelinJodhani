@@ -17,7 +17,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true)
 
-🌟 From [Selin Jodhani](https://github.com/Selin Jodhani)
+🌟 From [Selin Jodhani](https://github.com/SelinJodhani)
 
 <!--
 **SelinJodhani/SelinJodhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
