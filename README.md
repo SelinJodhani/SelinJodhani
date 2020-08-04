@@ -13,7 +13,7 @@
 - JavaScipt
 - Web Development
 
-<h4 align="center">Things got bugs, gonna smash them one by one</h4>
+<h4>Things got bugs, gonna smash them one by one</h4>
 
 <!--
 **SelinJodhani/SelinJodhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
