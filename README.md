@@ -4,7 +4,7 @@
 
 <p> <b>I am Selin Jodhani. I Love ❤️ programming and currently learning Python 🐍. <b></p>
 
-<img align="right" src="https://drive.google.com/file/d/1UPSdaNXiPZetXCN0IjSMZbmWVmsrqTLF/preview" height="300" width="300">
+<img align="right" src="https://i.pinimg.com/236x/2d/c6/40/2dc640249c538d73dc3c53644d06d4b8.jpg" height="300" width="300">
 
 <h3> Language & Skills </h3>
 
