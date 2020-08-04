@@ -8,8 +8,8 @@
 
 <h3> Language & Skills </h3>
 
-- Python
-- C++
+- Python :snake:
+- C++ :+1:
 - JavaScipt
 - Web Development
 
