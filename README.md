@@ -4,7 +4,7 @@
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-JodhaniSelin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://twitter.com/JodhaniSelin)  [![Gmail Badge](https://img.shields.io/badge/-jodhaniselin.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodhaniselin.sj@gmail.com)](mailto:jodhaniselin.sj@.com)
 -->
-<img align="right" src="https://www.lofter.com/tag/%E4%BC%AA%E8%A3%85%E5%AD%A6%E6%B8%A3/total?page=10" height="300" width="300">
+<img align="right" src="https://ibb.co/MpgLnqx" height="300" width="300">
 <!--
 **SelinJodhani/SelinJodhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
