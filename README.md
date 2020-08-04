@@ -15,7 +15,8 @@
 
 <h4>Things got bugs, gonna smash them one by one</h4>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true)
+<!--
+![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true) -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
