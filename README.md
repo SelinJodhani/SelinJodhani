@@ -6,7 +6,7 @@
 
 <img align="right" src="https://p.kindpng.com/picc/s/3-36416_transparent-anime-guy-png-png-download.png" height="300" width="300">
 
-<h3 align="center"> Language & Skills </h3>
+<h3> Language & Skills </h3>
 
 - Python
 - C++
