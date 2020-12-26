@@ -24,7 +24,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true&theme=dark)
 
 <!--🌟 From [Selin Jodhani](https://github.com/SelinJodhani)-->
 
