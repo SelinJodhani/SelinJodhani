@@ -6,17 +6,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="200" width="200">
 
-<h3> Language & Skills </h3>
+<h3> Currently learning </h3>
 
-- Python 
-- C++ 
-- JavaScipt
-- Web Development
+- Python 🐍
+- Data Science ⚡
+- Web Scrapping 
 
 <h4>Things got bugs, gonna smash them one by one :zap:</h4>
-
-<!--
-![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true) -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,21 +20,4 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true&theme=dark)
-
-<!--🌟 From [Selin Jodhani](https://github.com/SelinJodhani)-->
-
-<!--
-**SelinJodhani/SelinJodhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true)
