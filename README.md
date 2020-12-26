@@ -20,7 +20,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Twitter Badge](https://img.shields.io/badge/-JodhaniSelin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://twitter.com/JodhaniSelin)  [![Gmail Badge](https://img.shields.io/badge/-jodhaniselin.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodhaniselin.sj@gmail.com)](mailto:jodhaniselin.sj@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Selin Jodhani-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://twitter.com/JodhaniSelin)  [![Gmail Badge](https://img.shields.io/badge/-jodhaniselin.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodhaniselin.sj@gmail.com)](mailto:jodhaniselin.sj@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
