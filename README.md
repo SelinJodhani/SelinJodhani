@@ -1,4 +1,3 @@
-<!--<h1> Hi there 👋 </h1>-->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/SelinJodhani/SelinJodhani/master/name.svg" alt="Selin Jodhani" />
 </h1>
@@ -18,8 +17,11 @@
 <h4>Things got bugs, gonna smash them one by one :zap:</h4>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Connect with me:
 
 [![Twitter Badge](https://img.shields.io/badge/-JodhaniSelin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://twitter.com/JodhaniSelin)  [![Gmail Badge](https://img.shields.io/badge/-jodhaniselin.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodhaniselin.sj@gmail.com)](mailto:jodhaniselin.sj@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-NoOneCanBeNoOne-0063ff?style=flat-square&logo=Telegram&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://t.me/NoOneCanBeNoOne)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
