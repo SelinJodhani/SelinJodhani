@@ -4,7 +4,7 @@
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-JodhaniSelin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://twitter.com/JodhaniSelin)  [![Gmail Badge](https://img.shields.io/badge/-jodhaniselin.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodhaniselin.sj@gmail.com)](mailto:jodhaniselin.sj@.com)-->
 
-<p> <b>I am Selin Jodhani. I Love ❤️ programming and currently learning Python 🐍. <b></p>
+<p> <b>Hi, I am Selin Jodhani! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <b></p>
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="200" width="200">
 
