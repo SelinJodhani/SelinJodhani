@@ -1,4 +1,7 @@
-<h1> Hi there 👋 </h1>
+<!--<h1> Hi there 👋 </h1>-->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/SelinJodhani/SelinJodhani/master/name.svg" alt="Selin Jodhani" />
+</h1>
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-JodhaniSelin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://twitter.com/JodhaniSelin)  [![Gmail Badge](https://img.shields.io/badge/-jodhaniselin.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodhaniselin.sj@gmail.com)](mailto:jodhaniselin.sj@.com)-->
 
