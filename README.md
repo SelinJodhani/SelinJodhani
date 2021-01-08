@@ -26,12 +26,3 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true&theme=dark)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Now Playing on Spotify 🎧
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=928vr9d6nu5gtnzkxaul89cfz&cover_image=true&theme=novatorem)](https://open.spotify.com/user/928vr9d6nu5gtnzkxaul89cfz)
-</div>
