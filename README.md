@@ -12,7 +12,8 @@
 
 - Python 🐍
 - Data Science ⚡
-- Web Scrapping 
+- Web Scrapping
+- Django 
 
 <h4>Things got bugs, gonna smash them one by one :zap:</h4>
 
