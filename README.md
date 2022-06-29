@@ -6,7 +6,7 @@
 
 <p> <b>Hi, I am Selin Jodhani! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <b></p>
 
-<img align="right" src="https://media.giphy.com/media/Wc8eqOgMNeSRtSdsvu/giphy.gif" height="200" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="200" width="200">
 
 <h3> Currently learning </h3>
 
