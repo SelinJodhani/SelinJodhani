@@ -63,7 +63,7 @@ const selin = {
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### My GitHub Stats
+### My GitHub Stats:
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="SelinJodhani" height="139" />
